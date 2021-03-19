@@ -1,0 +1,8 @@
+Alert Message,Alert Priority,Alert Created At Time,Alert Acknowledged By,Alert Time to Acknowledge,Alert Closed By,Alert Time to Close,Alert Status,Alert Owner,Alert Source,Alert Duplication Count,Alert ID
+teste_richard,Moderate,2021-03-18 14:40:05,,,richard JONATAN RAMIREZ,47s,Closed,,richard.ramirez@hypeflame.com.br,1,18c201a0-b338-4b69-87e1-4f1ee7a227ba-1616089205165
+teste_richard,Moderate,2021-03-18 14:39:34,,,richard JONATAN RAMIREZ,11s,Closed,,richard.ramirez@hypeflame.com.br,1,bdc0f202-3ddb-41eb-9691-5c524224e4ce-1616089173551
+teste_richard,Moderate,2021-03-18 14:09:44,,,richard JONATAN RAMIREZ,2m 11s,Closed,,,1,291b47dc-1933-44da-aad0-5543a7995085-1616087383754
+teste_richard,Moderate,2021-03-18 14:09:44,,,richard JONATAN RAMIREZ,2m 10s,Closed,,,1,3e1c9af4-f7fa-4809-bb7b-47fed253a816-1616087383775
+teste_richard,Moderate,2021-03-18 14:09:43,,,richard JONATAN RAMIREZ,2m 11s,Closed,,richard.ramirez@hypeflame.com.br,1,93be18fd-f650-43c2-a642-bbab98374a6b-1616087383212
+teste_richard,Moderate,2021-03-18 13:39:03,,,richard JONATAN RAMIREZ,1m 19s,Closed,,richard.ramirez@hypeflame.com.br,1,b6a58afe-25b8-4b8e-a94e-b100c9d51e74-1616085543352
+teste_richard,Moderate,2021-03-18 13:34:27,,,richard JONATAN RAMIREZ,4m 9s,Closed,,richard.ramirez@hypeflame.com.br,1,4927b990-a35d-4d2e-8694-0db3debfd5d1-1616085266834
